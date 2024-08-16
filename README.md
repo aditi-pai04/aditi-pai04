@@ -11,10 +11,15 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-%231572B6.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditi-n-pai-1b122b226/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/aditi2003pai/">
+    <img src="https://img.shields.io/badge/LeetCode-%23F14C4C.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <!-- Add more social media badges as needed -->
 </p>
+
 
 <!-- Animated Typing Intro -->
 <p align="center">
@@ -27,6 +32,13 @@
   Hi, I'm Aditi, a passionate developer who loves to code and explore innovative projects. <br>
   I enjoy learning new technologies, collaborating with others, and adding a dash of creativity to everything I do. 💕
 </p>
+<!-- Visitor Counter -->
+<!-- Visitor Counter -->
+<h3 align="center"> Visitor Counter </h3>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aditi-pai04/count.svg" alt="Visitor Count"/>
+</div>
+
 
 <!-- Tech Stack Section -->
 <h3 align="center"> My Tech Stack </h3>
@@ -35,14 +47,17 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <!-- Add more as needed -->
+  <img src="https://img.shields.io/badge/Python-%2334A853.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Linux-%2318D0F2.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 <!-- Fun Stats Section -->
 <h3 align="center"> GitHub Stats </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-pai04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-pai04&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Custom Cute Section -->
