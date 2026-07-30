@@ -60,18 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-⭐ Network Intrusion Detection using Genetic Algorithms
-
-⭐ Bat Call Annotation & Species Classification Tool
-
-⭐ Real-Time Sports Analytics & Visualization Platform
-
-⭐ AI-Based Skin Disease Diagnosis
-
----
-
 ## 📚 Publications
 
 📖 Springer — *Real-Time Insights and Dynamic Performance Visualizations for Unprecedented Impact in Ball Badminton*
